@@ -1,5 +1,4 @@
 /// Movimiento
-
 //Botones
 var botonDer,botonDer2, botonIzq, botonIzq2, botonArri, botonArri2, botonAba, botonAba2;
 botonDer   = keyboard_check(ord("D"));
